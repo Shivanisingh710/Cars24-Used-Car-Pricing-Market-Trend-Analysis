@@ -1,0 +1,221 @@
+Cars,Model,Dist per km,Fuel,Transmission,Registration,EMI Per Month,Sale City,Manufacturing_Year,Reg_State,Other charges,Actual Price in Lakhs,Discounted Price in Lakhs,Car Age,Discount Amount,Discount %,Brand
+Hyundai Grand i10, SPORTZ AT 1.2 KAPPA VTVT,52714,Petrol,Auto,GJ-03,7089.0,Ahmedabad,2018,Gujarat,Included,4.52,4.02,8,0.5,11.06,Hyundai
+Maruti Swift, VXI,44681,Petrol,Manual,GJ-27,13784.0,Ahmedabad,2013,Gujarat,Included,2.93,2.93,13,0.0,0.0,Maruti
+Maruti Baleno, DELTA PETROL 1.2,136849,Petrol,Manual,GJ-12,9343.0,Ahmedabad,2021,Gujarat,Included,4.37,4.2,5,0.17,3.89,Maruti
+Hyundai Elite i20, MAGNA PLUS 1.2,72585,Petrol,Manual,GJ-27,7830.0,Ahmedabad,2019,Gujarat,Included,4.44,4.44,7,0.0,0.0,Hyundai
+Hyundai VENUE, S+ 1.2,58316,Petrol,Manual,GJ-12,9837.0,Ahmedabad,2022,Gujarat,Included,5.74,5.57,4,0.17,2.96,Hyundai
+KIA SELTOS, HTK PLUS 1.5,75184,Petrol,Manual,GJ-12,11514.0,Ahmedabad,2020,Gujarat,Included,7.27,6.52,6,0.75,10.32,KIA
+Maruti Swift, ZXI PLUS,79406,Petrol,Manual,GJ-27,9709.0,Ahmedabad,2022,Gujarat,Included,5.5,5.5,4,0.0,0.0,Maruti
+Hyundai Elite i20, MAGNA PLUS 1.2,89894,Petrol,Manual,GJ-01,8447.0,Ahmedabad,2020,Gujarat,Included,4.78,4.78,6,0.0,0.0,Hyundai
+Maruti Alto 800, LXI,73792,Petrol,Manual,GJ-24,3562.0,Ahmedabad,2018,Gujarat,Included,2.12,2.02,8,0.1,4.72,Maruti
+Renault Kwid, RXT 0.8,123083,Petrol,Manual,GJ-27,3239.0,Ahmedabad,2016,Gujarat,Included,1.65,1.46,10,0.19,11.52,Renault
+Tata NEXON, XZ PLUS (O) PETROL,86350,Petrol,Manual,GJ-12,10190.0,Ahmedabad,2020,Gujarat,Included,5.89,5.77,6,0.12,2.04,Tata
+Tata Tiago, XZ PLUS PETROL,27607,Petrol,Manual,GJ-01,7938.0,Ahmedabad,2022,Gujarat,Included,4.68,4.5,4,0.18,3.85,Tata
+Hyundai Grand i10, MAGNA 1.2 KAPPA VTVT,92157,Petrol,Manual,GJ-12,4390.0,Ahmedabad,2018,Gujarat,Included,2.69,2.49,8,0.2,7.43,Hyundai
+Hyundai Grand i10, SPORTZ 1.2 KAPPA VTVT,37642,Petrol,Manual,GJ-01,6708.0,Ahmedabad,2019,Gujarat,Included,4.39,3.8,7,0.59,13.44,Hyundai
+Ford Ecosport, TITANIUM 1.5L PETROL,83699,Petrol,Manual,GJ-38,6389.0,Ahmedabad,2018,Gujarat,Included,4.09,3.62,8,0.47,11.49,Ford
+Maruti Celerio, VXI AMT,60932,Petrol,Auto,GJ-10,5665.0,Ahmedabad,2017,Gujarat,Included,3.15,2.9,9,0.25,7.94,Maruti
+Maruti Alto K10, VXI,48518,Petrol,Manual,GJ-12,3763.0,Ahmedabad,2019,Gujarat,Included,2.38,2.13,7,0.25,10.5,Maruti
+Renault Kwid, CLIMBER 1.0 AMT,66034,Petrol,Auto,GJ-03,4218.0,Ahmedabad,2017,Gujarat,Included,2.16,2.16,9,0.0,0.0,Renault
+Renault Kwid, RXE,55916,Petrol,Manual,GJ-09,4871.0,Ahmedabad,2021,Gujarat,Included,3.27,2.76,5,0.51,15.6,Renault
+KIA SELTOS, GTK 1.4 PETROL,80983,Petrol,Manual,GJ-01,12191.0,Ahmedabad,2019,Gujarat,Included,8.77,6.91,7,1.86,21.21,KIA
+Hyundai Creta, SX PLUS 1.6 PETROL,77726,Diesel,Manual,KA-02,14423.0,bangalore,2017,Karnataka,Included,7.38,7.38,9,0.0,0.0,Hyundai
+Renault Kwid, RXT 1.0,47758,Petrol,Manual,KA-32,5161.0,bangalore,2016,Karnataka,Included,2.66,2.32,10,0.34,12.78,Renault
+Maruti Swift, ZXI,62641,CNG,Manual,KA-05,9480.0,bangalore,2018,Karnataka,Included,5.65,5.37,8,0.28,4.96,Maruti
+Hyundai Grand i10, 1.2 SPORTZ PRIME EDITION VTVT,68576,Petrol,Manual,KA-20,7118.0,bangalore,2016,Karnataka,Included,3.88,3.2,10,0.68,17.53,Hyundai
+Hyundai VENUE, SX 1.0 TURBO IMT,31386,Petrol,Manual,KA-01,13151.0,bangalore,2021,Karnataka,Included,7.59,7.45,5,0.14,1.84,Hyundai
+Maruti Swift, ZXi Plus Dual Tone AMT,25054,Petrol,Auto,KA-05,13434.0,bangalore,2024,Karnataka,Included,8.4,7.61,2,0.79,9.4,Maruti
+Maruti Baleno, ZETA CVT PETROL 1.2,57289,Petrol,Auto,KA-53,10521.0,bangalore,2019,Karnataka,Included,5.96,5.96,7,0.0,0.0,Maruti
+Hyundai NEW I20, SPORTZ 1.2 MT,20334,Petrol,Manual,KA-19,12148.0,bangalore,2023,Karnataka,Included,6.88,6.88,3,0.0,0.0,Hyundai
+KIA SELTOS, HTK PLUS 1.5,86637,Petrol,Manual,KA-04,12039.0,bangalore,2019,Karnataka,Included,7.03,6.82,7,0.21,2.99,KIA
+Ford Ecosport, AMBIENTE 1.5L PETROL,51929,Diesel,Manual,KA-19,10574.0,bangalore,2020,Karnataka,Included,6.3,5.99,6,0.31,4.92,Ford
+Maruti Swift, ZXI,38175,Petrol,Manual,KA-35,10566.0,bangalore,2016,Karnataka,Included,5.24,4.75,10,0.49,9.35,Maruti
+Hyundai Elite i20, MAGNA PLUS 1.2,55623,Petrol,Manual,KA-26,9196.0,bangalore,2020,Karnataka,Included,5.21,5.21,6,0.0,0.0,Hyundai
+Datsun Redi Go, T (O),43733,Petrol,Manual,KA-19,3539.0,bangalore,2017,Karnataka,Included,2.18,1.81,9,0.37,16.97,Datsun
+Ford Ecosport, TITANIUM + 1.5L PETROL AT,64721,Petrol,Auto,KA-02,13954.0,bangalore,2020,Karnataka,Included,7.9,7.9,6,0.0,0.0,Ford
+Hyundai GRAND I10 NIOS, SPORTZ 1.2 KAPPA VTVT DUAL TONE,42493,CNG,Manual,KA-25,8350.0,bangalore,2019,Karnataka,Included,4.73,4.73,7,0.0,0.0,Hyundai
+Tata NEXON, XM PETROL,71164,Petrol,Manual,KA-01,9696.0,bangalore,2018,Karnataka,Included,5.49,5.49,8,0.0,0.0,Tata
+Renault Kwid, RXT 1.0,39855,CNG,Manual,KA-55,5083.0,bangalore,2017,Karnataka,Included,3.12,2.6,9,0.52,16.67,Renault
+Hyundai Creta, E PLUS 1.6 PETROL,54560,Petrol,Manual,KA-51,12964.0,bangalore,2018,Karnataka,Included,7.34,7.34,8,0.0,0.0,Hyundai
+Hyundai i20, SPORTZ 1.2,60146,Diesel,Manual,KA-04,8802.0,bangalore,2014,Karnataka,Included,2.98,2.65,12,0.33,11.07,Hyundai
+Renault Kwid, CLIMBER 1.0 AMT Dual Tone ,10758,Petrol,Auto,KA-01,8124.0,bangalore,2022,Karnataka,Included,4.6,4.6,4,0.0,0.0,Renault
+Maruti Alto K10, VXi (O),23717,Petrol,Manual,PB-10,6655.0,Chandigarh,2025,Punjab,Included,4.47,3.77,1,0.7,15.66,Maruti
+Renault Kwid, RXL,57108,Petrol,Manual,PB-12,3634.0,Chandigarh,2015,Punjab,Included,1.38,1.38,11,0.0,0.0,Renault
+Maruti Alto K10, VXI,74169,Petrol,Manual,PB-30,4783.0,Chandigarh,2016,Punjab,Included,2.51,2.15,10,0.36,14.34,Maruti
+Renault Kwid, RXT 1.0 (O),67064,Petrol,Manual,PB-19,3884.0,Chandigarh,2018,Punjab,Included,2.23,2.2,8,0.03,1.35,Renault
+Hyundai Elite i20, MAGNA 1.2,87881,Petrol,Manual,PB-65,8141.0,Chandigarh,2016,Punjab,Included,4.12,3.66,10,0.46,11.17,Hyundai
+Maruti New Wagon-R, VXI 1.2,83681,Petrol,Manual,HR-03,5472.0,Chandigarh,2020,Haryana,Included,4.03,3.1,6,0.93,23.08,Maruti
+Hyundai Eon, MAGNA +,90179,Petrol,Manual,CH-01,4801.0,Chandigarh,2013,Chandigarh,Included,1.57,1.02,13,0.55,35.03,Hyundai
+Tata Tiago, XZ PETROL,45295,Petrol,Manual,PB-65,5649.0,Chandigarh,2019,Punjab,Included,3.33,3.2,7,0.13,3.9,Tata
+Nissan MAGNITE, XE,24263,Petrol,Manual,HR-85,6673.0,Chandigarh,2022,Haryana,Included,4.26,3.78,4,0.48,11.27,Nissan
+Tata Tiago, XZ PETROL,49561,Petrol,Manual,PB-10,6532.0,Chandigarh,2021,Punjab,Included,4.53,3.7,5,0.83,18.32,Tata
+Ford Ecosport, AMBIENTE 1.5L PETROL,74455,Petrol,Manual,PB-02,7772.0,Chandigarh,2014,Punjab,Included,3.34,2.34,12,1.0,29.94,Ford
+Maruti Baleno, DELTA PETROL 1.2,32472,Petrol,Manual,PB-02,7711.0,Chandigarh,2021,Punjab,Included,5.06,4.37,5,0.69,13.64,Maruti
+Mahindra KUV 100 NXT, K2 D 6S,68448,Diesel,Manual,PB-42,4125.0,Chandigarh,2018,Punjab,Included,2.83,2.11,8,0.72,25.44,Mahindra
+Honda Amaze, 1.2L I-VTEC VX,58976,Petrol,Manual,HR-03,9885.0,Chandigarh,2013,Haryana,Included,2.42,2.1,13,0.32,13.22,Honda
+Skoda KUSHAQ, AMBITION 1.0L TSI MT,65634,Petrol,Manual,PB-03,13045.0,Chandigarh,2022,Punjab,Included,7.54,7.39,4,0.15,1.99,Skoda
+Tata ALTROZ, XM PLUS DIESEL,80846,Diesel,Manual,PB-10,7209.0,Chandigarh,2021,Punjab,Included,5.24,4.08,5,1.16,22.14,Tata
+KIA SELTOS, HTK PLUS 1.5 DIESEL,74491,Diesel,Manual,PB-02,15787.0,Chandigarh,2022,Punjab,Included,9.52,9.22,4,0.3,3.15,KIA
+Hyundai GRAND I10 NIOS, ASTA AMT 1.2 KAPPA VTVT,5189,Petrol,Auto,PB-65,10069.0,Chandigarh,2022,Punjab,Included,6.0,5.7,4,0.3,5.0,Hyundai
+Hyundai Tucson, GLS 4WD AT DIESEL,128073,Diesel,Auto,PB-10,21242.0,Chandigarh,2018,Punjab,Included,12.02,9.77,8,2.25,18.72,Hyundai
+Volkswagen TAIGUN, HIGHLINE 1.0 TSI MT,42419,Petrol,Manual,PB-02,12763.0,Chandigarh,2022,Punjab,Included,8.28,7.23,4,1.05,12.68,Volkswagen
+Hyundai Creta, SX AT 1.6 DIESEL,95188,Diesel,Auto,HR-03,16541.0,Chandigarh,2018,Haryana,Not Included,8.69,8.69,8,0.0,0.0,Hyundai
+Maruti S PRESSO, VXI+,135640,Petrol,Manual,PB-13,6228.0,Chandigarh,2019,Punjab,Not Included,2.8,2.8,7,0.0,0.0,Maruti
+Maruti Swift, VXI,67721,Petrol,Manual,HR-12,7238.0,Chandigarh,2019,Haryana,Not Included,4.1,4.1,7,0.0,0.0,Maruti
+Hyundai Grand i10, MAGNA AT 1.2 KAPPA VTVT,39393,Petrol,Auto,DL-10,4671.0,Chandigarh,2016,Delhi,Not Included,2.2,2.1,10,0.1,4.55,Hyundai
+Hyundai Santa Fe, 4 WD,144523,Diesel,Manual,PB-12,0.0,Chandigarh,2011,Punjab,Not Included,2.37,2.37,15,0.0,0.0,Hyundai
+Tata ALTROZ, XZ PETROL,45649,Petrol,Manual,HR-05,10592.0,Chandigarh,2023,Haryana,Not Included,6.18,6.0,3,0.18,2.91,Tata
+Tata Indigo ECS, LX TDI,126239,Diesel,Manual,PB-10,4617.0,Chandigarh,2015,Punjab,Not Included,1.39,1.39,11,0.0,0.0,Tata
+Tata NEXON, XZ PLUS PETROL,81729,Petrol,Manual,PB-65,10362.0,Chandigarh,2017,Punjab,Not Included,5.3,5.3,9,0.0,0.0,Tata
+Hyundai Elite i20, SPORTZ 1.4 CRDI,163865,Diesel,Manual,UP-15,8163.0,Chandigarh,2016,Uttar Pradesh,Not Included,3.1,3.1,10,0.0,0.0,Hyundai
+Volkswagen Vento, HIGHLINE DIESEL 1.6,125966,Diesel,Manual,PB-02,16970.0,Chandigarh,2013,Punjab,Not Included,1.91,1.91,13,0.0,0.0,Volkswagen
+Renault Duster, 110 PS RXL DIESEL,118951,Diesel,Manual,HR-12,11298.0,Chandigarh,2014,Haryana,Not Included,2.4,2.4,12,0.0,0.0,Renault
+Mahindra TUV300, T8,151716,Diesel,Manual,JH-05,10797.0,Chandigarh,2016,Jharkhand,Not Included,4.1,4.1,10,0.0,0.0,Mahindra
+Tata Harrier, ADVENTURE,31026,Diesel,Manual,PB-65,27396.0,Chandigarh,2024,Punjab,Not Included,16.0,16.0,2,0.0,0.0,Tata
+Maruti Baleno, DELTA PETROL 1.2,113031,Petrol,Manual,PB-06,8453.0,Chandigarh,2019,Punjab,Not Included,3.8,3.8,7,0.0,0.0,Maruti
+Maruti Swift, LXI (O),13644,Petrol,Manual,HR-01,6451.0,Chandigarh,2016,Haryana,Not Included,2.9,2.9,10,0.0,0.0,Maruti
+Honda City, 1.5L I-VTEC S MT,171763,Petrol,Manual,UK-07,10921.0,Chandigarh,2013,Uttarakhand,Not Included,2.32,2.32,13,0.0,0.0,Honda
+Hyundai AURA, S 1.2 CNG,204240,CNG,Manual,CH-01,7341.0,Chandigarh,2021,Chandigarh,Not Included,3.3,3.3,5,0.0,0.0,Hyundai
+Maruti Swift, VXI,32722,Petrol,Manual,PB-10,10892.0,Chandigarh,2024,Punjab,Not Included,6.17,6.17,2,0.0,0.0,Maruti
+Maruti Ritz, LXI,85282,Petrol,Manual,DL-6C,12705.0,Chandigarh,2012,Delhi,Not Included,1.43,1.43,14,0.0,0.0,Maruti
+Tata Zest, XE 75PS DIESEL,73115,Diesel,Manual,DL-11,5115.0,Chandigarh,2015,Delhi,Not Included,1.54,1.54,11,0.0,0.0,Tata
+Renault Kwid, RXT 1.0 (O),42793,Petrol,Manual,HR-03,3584.0,Delhi,2019,Haryana,Included,2.2,2.03,7,0.17,7.73,Renault
+Maruti Baleno, DELTA PETROL 1.2,38618,Petrol,Manual,DL-10,9232.0,Delhi,2023,Delhi,Included,5.23,5.23,3,0.0,0.0,Maruti
+Nissan MAGNITE, XL,64701,Petrol,Manual,HR-15,6726.0,Delhi,2021,Haryana,Included,4.27,3.81,5,0.46,10.77,Nissan
+Renault Kwid, RXT 1.0,61347,Petrol,Manual,HR-87,3245.0,Delhi,2017,Haryana,Included,2.04,1.66,9,0.38,18.63,Renault
+Renault Kwid, RXL,60101,Petrol,Manual,HR-51,2892.0,Delhi,2018,Haryana,Included,1.89,1.64,8,0.25,13.23,Renault
+Renault Kwid, RXT 0.8,62135,Petrol,Manual,UP-80,2879.0,Delhi,2018,Uttar Pradesh,Included,2.42,1.63,8,0.79,32.64,Renault
+Renault Kwid, RXT 0.8,41654,Petrol,Manual,HR-79,2929.0,Delhi,2017,Haryana,Included,2.5,1.5,9,1.0,40.0,Renault
+Tata Tiago, XZ PETROL,82748,Petrol,Manual,DL-9C,4501.0,Delhi,2019,Delhi,Included,3.09,2.55,7,0.54,17.48,Tata
+Maruti Swift, LXI (O),79321,Petrol,Manual,DL-8C,4886.0,Delhi,2017,Delhi,Included,2.7,2.5,9,0.2,7.41,Maruti
+Hyundai Grand i10, SPORTZ 1.2 KAPPA VTVT,51717,Petrol,Manual,DL-8C,6136.0,Delhi,2015,Delhi,Included,2.68,2.33,11,0.35,13.06,Hyundai
+Honda Amaze, 1.2L I-VTEC VX,63933,Petrol,Manual,DL-11,6690.0,Delhi,2018,Delhi,Included,4.24,3.79,8,0.45,10.61,Honda
+Renault Kwid, RXT 0.8,80136,Petrol,Manual,DL-8C,3403.0,Delhi,2016,Delhi,Included,2.15,1.53,10,0.62,28.84,Renault
+Maruti Wagon R 1.0, LXI,63611,Petrol,Manual,DL-9C,4529.0,Delhi,2015,Delhi,Included,2.05,1.72,11,0.33,16.1,Maruti
+Maruti Swift, LXI,66173,Petrol,Manual,HR-14,7432.0,Delhi,2022,Haryana,Included,4.37,4.21,4,0.16,3.66,Maruti
+Renault Kwid, 1.0 MARVEL IRON MAN EDITION,92514,Petrol,Manual,HR-29,3960.0,Delhi,2016,Haryana,Included,2.38,1.78,10,0.6,25.21,Renault
+KIA SELTOS, HTK 1.5 PETROL,43539,Petrol,Manual,HR-16,13243.0,Delhi,2022,Haryana,Included,8.64,7.5,4,1.14,13.19,KIA
+Ford FREESTYLE, AMBIENTE 1.5 DIESEL,55165,Diesel,Manual,UP-25,9931.0,Delhi,2019,Uttar Pradesh,Included,4.99,2.99,7,2.0,40.08,Ford
+Tata NEXON, XZ PLUS (L) DARK EDITION,55797,Petrol,Manual,UP-27,13240.0,Delhi,2022,Uttar Pradesh,Included,8.04,7.5,4,0.54,6.72,Tata
+Maruti New Wagon-R, VXI 1.2,46641,Petrol,Manual,DL-2C,5886.0,Delhi,2019,Delhi,Included,3.33,3.33,7,0.0,0.0,Maruti
+Toyota Glanza, S,60527,Petrol,Manual,HR-26,8826.0,Delhi,2023,Haryana,Included,5.64,5.0,3,0.64,11.35,Toyota
+Volkswagen TAIGUN, COMFORTLINE 1.0 TSI MT,26852,Petrol,Manual,TS-07,13830.0,Hydrabad,2022,Telangana,Included,7.83,7.83,4,0.0,0.0,Volkswagen
+Renault Kwid, RXT 0.8,65470,Petrol,Manual,TS-09,3949.0,Hydrabad,2017,Telangana,Included,2.44,2.02,9,0.42,17.21,Renault
+Maruti BREZZA, ZXI,20947,Petrol,Manual,AP-39,16951.0,Hydrabad,2023,Andhra Pradesh,Included,11.65,9.9,3,1.75,15.02,Maruti
+Maruti Swift, VDI,113417,Diesel,Manual,TS-09,9586.0,Hydrabad,2016,Telangana,Included,3.86,3.64,10,0.22,5.7,Maruti
+Renault Kwid, CLIMBER 1.0 (O),91070,Petrol,Manual,TS-08,5808.0,Hydrabad,2021,Telangana,Included,3.4,3.29,5,0.11,3.24,Renault
+Honda City, 1.5L I-VTEC VX,83781,Petrol,Manual,TS-12,13938.0,Hydrabad,2020,Telangana,Included,7.9,7.9,6,0.0,0.0,Honda
+Maruti Swift, VXI,115028,Petrol,Manual,AP-28,11674.0,Hydrabad,2013,Andhra Pradesh,Included,2.93,2.48,13,0.45,15.36,Maruti
+Hyundai Creta, SX PLUS 1.6 PETROL,87805,Petrol,Manual,TS-08,12375.0,Hydrabad,2018,Telangana,Included,7.61,7.01,8,0.6,7.88,Hyundai
+Maruti Vitara Brezza, ZXI,68610,Petrol,Manual,TS-07,11668.0,Hydrabad,2020,Telangana,Included,6.88,6.61,6,0.27,3.92,Maruti
+Hyundai Verna, FLUIDIC 1.6 VTVT SX,115057,Petrol,Manual,TS-08,11658.0,Hydrabad,2014,Telangana,Included,3.71,3.51,12,0.2,5.39,Hyundai
+Maruti Alto 800, LXI,72570,Petrol,Manual,TS-10,5090.0,Hydrabad,2014,Telangana,Included,1.53,1.53,12,0.0,0.0,Maruti
+KIA SELTOS, HTK 1.5 PETROL,70038,Petrol,Manual,TS-10,12639.0,Hydrabad,2019,Telangana,Included,8.66,7.16,7,1.5,17.32,KIA
+Volkswagen Polo, TRENDLINE 1.0L,74948,Petrol,Manual,TS-08,6990.0,Hydrabad,2019,Telangana,Included,4.89,3.96,7,0.93,19.02,Volkswagen
+Maruti Alto 800, VXI O,36808,Petrol,Manual,TS-07,5098.0,Hydrabad,2018,Telangana,Included,2.89,2.89,8,0.0,0.0,Maruti
+Tata NEXON, XZ PLUS (HS) PETROL,61740,Petrol,Manual,TS-07,13222.0,Hydrabad,2022,Telangana,Included,7.74,7.49,4,0.25,3.23,Tata
+Ford Ecosport, TITANIUM + 1.5L PETROL,34987,Petrol,Manual,TS-08,12022.0,Hydrabad,2021,Telangana,Included,7.91,6.81,5,1.1,13.91,Ford
+Tata NEXON, XM PETROL,99481,Petrol,Manual,TS-15,9532.0,Hydrabad,2020,Telangana,Included,5.86,5.4,6,0.46,7.85,Tata
+KIA SELTOS, HTX 1.5 PETROL,92054,Petrol,Manual,TS-15,13610.0,Hydrabad,2019,Telangana,Included,7.9,7.71,7,0.19,2.41,KIA
+Toyota Innova, 2.5 GX 8 STR,97979,Diesel,Manual,TS-09,24246.0,Hydrabad,2015,Telangana,Included,8.09,7.3,11,0.79,9.77,Toyota
+Hyundai Elite i20, ASTA 1.2,42981,Petrol,Manual,TS-07,10132.0,Hydrabad,2017,Telangana,Included,5.18,5.18,9,0.0,0.0,Hyundai
+Maruti Swift, VXI,26489,Petrol,Manual,RJ-14,8270.0,Jaipur,2017,Rajasthan,Included,4.23,4.23,9,0.0,0.0,Maruti
+Tata Tiago, XT PETROL,44033,Petrol,Manual,RJ-45,6726.0,Jaipur,2021,Rajasthan,Included,3.95,3.81,5,0.14,3.54,Tata
+Maruti Swift, ZXI PLUS DUAL TONE,44528,Petrol,Manual,RJ-45,11615.0,Jaipur,2023,Rajasthan,Included,7.17,6.58,3,0.59,8.23,Maruti
+Datsun Redi Go, A,40360,Petrol,Manual,RJ-45,3283.0,Jaipur,2021,Rajasthan,Included,2.75,1.86,5,0.89,32.36,Datsun
+Maruti Alto 800, LXI,43860,Petrol,Manual,RJ-34,3901.0,Jaipur,2018,Rajasthan,Included,2.7,2.21,8,0.49,18.15,Maruti
+Volkswagen Polo, HIGHLINE PLUS 1.0,43694,Petrol,Manual,RJ-45,9886.0,Jaipur,2020,Rajasthan,Included,5.66,5.6,6,0.06,1.06,Volkswagen
+Maruti Swift Dzire, VXI,56431,Petrol,Manual,RJ-14,8743.0,Jaipur,2015,Rajasthan,Included,3.45,3.32,11,0.13,3.77,Maruti
+Maruti Vitara Brezza, LXI,56141,Petrol,Manual,RJ-27,9585.0,Jaipur,2022,Rajasthan,Included,6.45,5.43,4,1.02,15.81,Maruti
+Hyundai Grand i10, SPORTZ 1.2 KAPPA VTVT,66829,Petrol,Manual,RJ-14,7674.0,Jaipur,2016,Rajasthan,Included,3.45,3.45,10,0.0,0.0,Hyundai
+Ford Ecosport, TITANIUM 1.5L PETROL,73275,Petrol,Manual,RJ-45,9179.0,Jaipur,2020,Rajasthan,Included,5.71,5.2,6,0.51,8.93,Ford
+KIA SELTOS, HTK 1.5 PETROL,82109,Petrol,Manual,RJ-02,13593.0,Jaipur,2020,Rajasthan,Included,7.7,7.7,6,0.0,0.0,KIA
+Hyundai Verna, SX 1.5 l MPI,49512,Petrol,Manual,RJ-02,16472.0,Jaipur,2023,Rajasthan,Included,9.95,9.62,3,0.33,3.32,Hyundai
+Tata Tiago, XZ PETROL,91455,Petrol,Manual,RJ-45,7238.0,Jaipur,2019,Rajasthan,Included,4.1,4.1,7,0.0,0.0,Tata
+Honda City, 1.5L I-VTEC ZX,49728,Petrol,Manual,RJ-01,13955.0,Jaipur,2020,Rajasthan,Included,8.15,8.15,6,0.0,0.0,Honda
+Mahindra XUV300, W8 1.2 PETROL,38257,Petrol,Manual,RJ-02,10962.0,Jaipur,2021,Rajasthan,Included,6.61,6.21,5,0.4,6.05,Mahindra
+Hyundai Verna, FLUIDIC 1.6 CRDI SX,96358,Diesel,Manual,RJ-14,25944.0,Jaipur,2013,Rajasthan,Included,3.36,2.92,13,0.44,13.1,Hyundai
+Hyundai Creta, S 1.6 PETROL,85076,Petrol,Manual,RJ-14,12904.0,Jaipur,2015,Rajasthan,Included,5.94,4.9,11,1.04,17.51,Hyundai
+Chevrolet Beat, LS PETROL,77807,Petrol,Manual,RJ-14,2892.0,Jaipur,2016,Rajasthan,Included,1.3,1.3,10,0.0,0.0,Chevrolet
+Jeep Compass, LIMITED 1.4 PETROL AT,56275,Petrol,Auto,RJ-45,13978.0,Jaipur,2017,Rajasthan,Included,8.08,7.15,9,0.93,11.51,Jeep
+Toyota YARIS, VX CVT,77912,Petrol,Auto,RJ-45,11580.0,Jaipur,2020,Rajasthan,Included,9.47,6.56,6,2.91,30.73,Toyota
+Maruti Baleno, DELTA PETROL 1.2,30541,Petrol,Manual,WB-02,6295.0,Kolkata,2016,West Bengal,Included,3.43,2.83,10,0.6,17.49,Maruti
+Renault Kwid, RXT 1.0,14894,Petrol,Manual,WB-24,5596.0,Kolkata,2022,West Bengal,Included,3.87,3.17,4,0.7,18.09,Renault
+Maruti Wagon R 1.0, VXI,26069,Petrol,Manual,WB-06,4497.0,Kolkata,2017,West Bengal,Included,2.79,2.3,9,0.49,17.56,Maruti
+Maruti Alto 800, LXI,26875,Petrol,Manual,WB-10,3319.0,Kolkata,2019,West Bengal,Included,2.38,1.88,7,0.5,21.01,Maruti
+Maruti Alto 800, VXI,33046,Petrol,Manual,WB-08,3372.0,Kolkata,2018,West Bengal,Included,2.28,1.91,8,0.37,16.23,Maruti
+Maruti Baleno, DELTA PETROL 1.2,29257,Petrol,Manual,WB-02,9591.0,Kolkata,2023,West Bengal,Included,5.43,5.43,3,0.0,0.0,Maruti
+Hyundai AURA, E 1.2,117154,Petrol,Manual,WB-02,6584.0,Kolkata,2020,West Bengal,Included,3.52,2.96,6,0.56,15.91,Hyundai
+Hyundai Creta, SX AT 1.6 PETROL,79582,Petrol,Auto,WB-02,11068.0,Kolkata,2019,West Bengal,Included,6.87,6.27,7,0.6,8.73,Hyundai
+KIA SELTOS, HTK 1.5 PETROL,38099,Petrol,Manual,WB-08,11421.0,Kolkata,2020,West Bengal,Included,6.59,6.47,6,0.12,1.82,KIA
+Hyundai Verna, FLUIDIC 1.4 VTVT CX,60889,Petrol,Manual,WB-02,10396.0,Kolkata,2014,West Bengal,Included,3.97,3.13,12,0.84,21.16,Hyundai
+Ford Ecosport, TITANIUM 1.5L PETROL,35178,Petrol,Manual,WB-06,8367.0,Kolkata,2018,West Bengal,Included,4.78,4.74,8,0.04,0.84,Ford
+Ford Ecosport, TREND 1.5L PETROL,92097,Petrol,Manual,WB-12,7005.0,Kolkata,2015,West Bengal,Included,2.91,2.66,11,0.25,8.59,Ford
+Honda City, 1.5L I-VTEC SV,53943,Petrol,Manual,WB-20,6963.0,Kolkata,2016,West Bengal,Included,3.39,3.13,10,0.26,7.67,Honda
+Skoda KUSHAQ, ACTIVE 1.0L TSI MT,28643,Petrol,Manual,WB-02,10503.0,Kolkata,2022,West Bengal,Included,6.5,5.95,4,0.55,8.46,Skoda
+Mahindra XUV300, W8 (O) 1.2 PETROL,93983,Petrol,Manual,WB-10,9709.0,Kolkata,2021,West Bengal,Included,5.91,5.5,5,0.41,6.94,Mahindra
+Tata NEXON, CREATIVE PLUS S 1.2 REVOTRON 7 DCA,19428,Petrol,Auto,WB-06,12639.0,Kolkata,2023,West Bengal,Included,11.16,7.16,3,4.0,35.84,Tata
+Hyundai Creta, SX (O) 1.5 PETROL,14174,Petrol,Manual,WB-02,20718.0,Kolkata,2024,West Bengal,Included,13.86,12.1,2,1.76,12.7,Hyundai
+Maruti Baleno, ZETA PETROL 1.2,33897,Petrol,Manual,WB-06,7432.0,Kolkata,2020,West Bengal,Included,5.04,4.21,6,0.83,16.47,Maruti
+Datsun Go Plus, T,80776,Petrol,Manual,WB-24,3107.0,Kolkata,2018,West Bengal,Included,2.1,1.76,8,0.34,16.19,Datsun
+Toyota Glanza, G CVT,39919,Petrol,Auto,WB-12,8138.0,Kolkata,2021,West Bengal,Included,5.33,4.61,5,0.72,13.51,Toyota
+Hyundai Eon, D-LITE+,32837,Petrol,Manual,UP-11,3359.0,Lucknow,2016,Uttar Pradesh,Included,2.01,1.51,10,0.5,24.88,Hyundai
+Maruti Swift, VDI,69519,Diesel,Manual,UP-16,6871.0,Lucknow,2016,Uttar Pradesh,Included,3.81,2.61,10,1.2,31.5,Maruti
+Maruti Alto, VXI,38280,Petrol,Manual,UP-32,4572.0,Lucknow,2022,Uttar Pradesh,Included,3.18,2.59,4,0.59,18.55,Maruti
+Maruti Wagon R 1.0, VXI,34217,Petrol,Manual,UP-25,6188.0,Lucknow,2015,Uttar Pradesh,Included,2.35,2.35,11,0.0,0.0,Maruti
+Maruti Vitara Brezza, VXI,55501,Petrol,Manual,UP-32,10654.0,Lucknow,2022,Uttar Pradesh,Included,6.04,6.04,4,0.0,0.0,Maruti
+Hyundai Creta, E 1.5 DIESEL,101140,Diesel,Manual,UP-78,16950.0,Lucknow,2020,Uttar Pradesh,Included,8.05,7.62,6,0.43,5.34,Hyundai
+Tata NEXON, XZ PLUS PETROL SUNROOF,58364,Petrol,Manual,UP-32,12163.0,Lucknow,2023,Uttar Pradesh,Included,7.4,6.89,3,0.51,6.89,Tata
+Toyota Glanza, S,46274,Petrol,Manual,UP-36,9215.0,Lucknow,2023,Uttar Pradesh,Included,5.29,5.22,3,0.07,1.32,Toyota
+Hyundai Grand i10, MAGNA 1.2 KAPPA VTVT,28387,Petrol,Manual,UP-32,5667.0,Lucknow,2019,Uttar Pradesh,Included,3.25,3.21,7,0.04,1.23,Hyundai
+Honda Amaze, 1.2L I-VTEC S,70604,Petrol,Manual,UP-53,6178.0,Lucknow,2018,Uttar Pradesh,Included,3.53,3.5,8,0.03,0.85,Honda
+Mahindra TUV300, T8,126142,Diesel,Manual,UP-65,9902.0,Lucknow,2016,Uttar Pradesh,Included,3.8,3.76,10,0.04,1.05,Mahindra
+KIA SELTOS, HTE 1.5D IMT,86261,Diesel,Manual,UP-52,13822.0,Lucknow,2023,Uttar Pradesh,Included,11.93,7.83,3,4.1,34.37,KIA
+Hyundai Creta, SX 1.5 DIESEL,41424,Diesel,Manual,UP-81,16679.0,Lucknow,2021,Uttar Pradesh,Included,11.33,9.74,5,1.59,14.03,Hyundai
+Maruti IGNIS, DELTA 1.3,90400,Diesel,Manual,UP-78,7029.0,Lucknow,2017,Uttar Pradesh,Included,3.21,3.16,9,0.05,1.56,Maruti
+Ford FREESTYLE, TITANIUM 1.5 DIESEL,111529,Diesel,Manual,UP-66,9476.0,Lucknow,2021,Uttar Pradesh,Included,4.71,4.26,5,0.45,9.55,Ford
+Hyundai NEW I20 N LINE, N6 1.0 TURBO GDI IMT,32967,Petrol,Manual,UP-32,15181.0,Lucknow,2021,Uttar Pradesh,Included,8.87,8.87,5,0.0,0.0,Hyundai
+Hyundai Tucson, GLS 4WD AT DIESEL,131162,Diesel,Auto,UP-32,20416.0,Lucknow,2017,Uttar Pradesh,Included,9.39,9.39,9,0.0,0.0,Hyundai
+Datsun Go, A,55380,Petrol,Manual,UP-32,2842.0,Lucknow,2018,Uttar Pradesh,Included,1.63,1.61,8,0.02,1.23,Datsun
+Skoda KUSHAQ, AMBITION 1.0L TSI MT,60419,Petrol,Manual,UP-78,13857.0,Lucknow,2022,Uttar Pradesh,Included,8.37,7.85,4,0.52,6.21,Skoda
+Toyota URBAN CRUISER, MID GRADE MT,68540,Petrol,Manual,UP-21,8103.0,Lucknow,2020,Uttar Pradesh,Included,4.65,4.59,6,0.06,1.29,Toyota
+Volkswagen Polo, HIGHLINE1.2L,76923,Petrol,Manual,BR-01,7111.0,Patna,2015,Bihar,Included,2.7,2.7,11,0.0,0.0,Volkswagen
+Maruti Wagon R 1.0, VXI,59511,Petrol,Manual,BR-01,5027.0,Patna,2016,Bihar,Included,2.42,2.26,10,0.16,6.61,Maruti
+Datsun Redi Go, T(O),51983,Petrol,Manual,BR-31,3813.0,Patna,2020,Bihar,Included,3.09,2.16,6,0.93,30.1,Datsun
+Maruti Swift, VXI,53097,Petrol,Manual,BR-01,7591.0,Patna,2020,Bihar,Included,4.38,4.3,6,0.08,1.83,Maruti
+Maruti Eeco, 5 STR AC,8034,Petrol,Manual,BR-04,8615.0,Patna,2024,Bihar,Included,4.98,4.88,2,0.1,2.01,Maruti
+Hyundai Creta, S PLUS 1.4 DIESEL,68982,Diesel,Manual,BR-02,14859.0,Patna,2017,Bihar,Included,6.81,6.68,9,0.13,1.91,Hyundai
+Maruti Dzire, VXI,70953,Petrol,Manual,BR-01,8032.0,Patna,2021,Bihar,Included,4.69,4.55,5,0.14,2.99,Maruti
+Datsun Go Plus, T,31307,Petrol,Manual,BR-06,5967.0,Patna,2021,Bihar,Included,4.64,3.38,5,1.26,27.16,Datsun
+Maruti Alto, LXI,70280,CNG,Manual,BR-01,4907.0,Patna,2022,Bihar,Included,3.0,2.78,4,0.22,7.33,Maruti
+Skoda KUSHAQ, STYLE 1.0L TSI MT,66601,Petrol,Manual,BR-01,13293.0,Patna,2023,Bihar,Included,10.33,7.53,3,2.8,27.11,Skoda
+Mahindra Bolero, B6,58158,Diesel,Manual,BR-01,13098.0,Patna,2024,Bihar,Included,8.68,7.42,2,1.26,14.52,Mahindra
+Maruti Alto 800, LXI,91091,Petrol,Manual,BR-01,4003.0,Patna,2015,Bihar,Included,1.74,1.52,11,0.22,12.64,Maruti
+Mahindra BOLERO NEO, N10 R,61308,Diesel,Manual,BR-10,11951.0,Patna,2023,Bihar,Included,7.02,6.77,3,0.25,3.56,Mahindra
+KIA SONET, HTK 1.2,11177,Petrol,Manual,BR-01,11563.0,Patna,2022,Bihar,Included,7.3,6.55,4,0.75,10.27,KIA
+Hyundai Creta, SX (O) IVT 1.5 PETROL,49539,Petrol,Auto,BR-01,16181.0,Patna,2021,Bihar,Included,14.25,9.45,5,4.8,33.68,Hyundai
+Hyundai Creta, SX 1.5 PETROL,34586,Petrol,Manual,BR-01,16198.0,Patna,2020,Bihar,Included,9.65,9.46,6,0.19,1.97,Hyundai
+Tata Curvv, Creative 1.2 Petrol 6MT,16336,Petrol,Manual,BR-01,20444.0,Patna,2024,Bihar,Included,12.12,11.94,2,0.18,1.49,Tata
+Ford Ecosport, TITANIUM + 1.5L DIESEL,105820,Diesel,Manual,BR-01,11834.0,Patna,2019,Bihar,Included,5.36,5.32,7,0.04,0.75,Ford
+Tata NEXON, XZ PLUS (PREMIUM) KAZIRANGA PETROL,97980,CNG,Manual,BR-01,15941.0,Patna,2022,Bihar,Included,10.41,9.31,4,1.1,10.57,Tata
+Tata NEXON, XMA SUNROOF PETROL,90084,Petrol,Auto,BR-01,11280.0,Patna,2022,Bihar,Included,8.15,6.39,4,1.76,21.6,Tata
+Maruti Ertiga, VDI SHVS,71620,Diesel,Manual,MH-46,15639.0,Mumbai,2017,Maharashtra,Included,7.03,7.03,9,0.0,0.0,Maruti
+Hyundai Creta, SX PLUS AT 1.6 PETROL,72693,Petrol,Auto,MH-03,11714.0,Mumbai,2017,Maharashtra,Included,5.99,5.99,9,0.0,0.0,Hyundai
+Maruti Ertiga, ZXI+,72276,CNG,Manual,MH-48,14747.0,Mumbai,2017,Maharashtra,Included,5.6,5.6,9,0.0,0.0,Maruti
+Honda City, 1.5L I-VTEC V MT,136396,Petrol,Manual,MH-46,11345.0,Mumbai,2013,Maharashtra,Included,2.59,2.41,13,0.18,6.95,Honda
+Renault Kwid, RXT 0.8,52504,Petrol,Manual,MH-03,4017.0,Mumbai,2016,Maharashtra,Included,1.81,1.81,10,0.0,0.0,Renault
+Honda City, 1.5L I-VTEC SV CVT,45805,Petrol,Auto,MH-05,9283.0,Mumbai,2016,Maharashtra,Included,4.17,4.17,10,0.0,0.0,Honda
+Tata NEXON, XM PETROL,13857,Petrol,Manual,MH-05,12163.0,Mumbai,2023,Maharashtra,Included,7.0,6.89,3,0.11,1.57,Tata
+Hyundai Elite i20, SPORTZ PLUS 1.2,44264,Petrol,Manual,MH-47,8050.0,Mumbai,2019,Maharashtra,Included,4.78,4.56,7,0.22,4.6,Hyundai
+Volkswagen Polo, HIGHLINE1.2L,54494,Petrol,Manual,MH-02,20232.0,Mumbai,2012,Maharashtra,Included,2.28,2.28,14,0.0,0.0,Volkswagen
+Tata NEXON, XM DIESEL,44718,Diesel,Manual,MH-04,10856.0,Mumbai,2021,Maharashtra,Included,6.15,6.15,5,0.0,0.0,Tata
+Maruti Wagon R 1.0, VXI,50088,Petrol,Manual,MH-03,6842.0,Mumbai,2014,Maharashtra,Included,2.29,2.06,12,0.23,10.04,Maruti
+Ford Ecosport, TITANIUM 1.5L PETROL,43799,Petrol,Manual,MH-05,7591.0,Mumbai,2018,Maharashtra,Included,4.74,4.3,8,0.44,9.28,Ford
+Maruti Celerio, VXI AMT,42879,Petrol,Auto,MH-04,8171.0,Mumbai,2014,Maharashtra,Included,2.52,2.46,12,0.06,2.38,Maruti
+Skoda Rapid, STYLE TSI,48038,Petrol,Manual,MH-47,11174.0,Mumbai,2021,Maharashtra,Included,6.64,6.33,5,0.31,4.67,Skoda
+Maruti Celerio, VXI (O) CNG,69614,CNG,Manual,MH-04,6872.0,Mumbai,2019,Maharashtra,Included,3.85,3.52,7,0.33,8.57,Maruti
+KIA SELTOS, HTK PLUS 1.5 IMT,94252,Petrol,Manual,MH-03,13910.0,Mumbai,2022,Maharashtra,Included,9.25,7.88,4,1.37,14.81,KIA
+Maruti Alto 800, LXI CNG,61232,CNG,Manual,MH-04,7857.0,Mumbai,2015,Maharashtra,Included,1.93,1.67,11,0.26,13.47,Maruti
+Hyundai Creta, SX AT 1.6 PETROL,52376,Petrol,Auto,MH-03,12939.0,Mumbai,2018,Maharashtra,Included,7.33,7.33,8,0.0,0.0,Hyundai
+Mahindra Thar, LX D AT 4WD HT,51843,Diesel,Auto,MH-15,17037.0,Mumbai,2021,Maharashtra,Included,11.32,9.95,5,1.37,12.1,Mahindra
+Datsun Redi Go, S 1.0 AMT,40396,Petrol,Auto,MH-04,3302.0,Mumbai,2018,Maharashtra,Included,2.22,1.87,8,0.35,15.77,Datsun
